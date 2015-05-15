@@ -9,10 +9,6 @@ Notes:
 
 	Largest number possible is 999*999 = 998001, which has 6 base ten digits.
 	Smallest number possible is 100*100 = 10000, which has 5 base ten digits.
-
-Answer: 906609
-
-Code (C version C11):
 */
 
 #include <stdio.h>

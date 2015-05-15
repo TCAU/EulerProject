@@ -10,10 +10,6 @@ There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
 
 Notes: A cap of 1000 combined value of a + b + c makes the answer easy to brute force
-
-Answer: 31875000
-
-Code (C version C11):
 */
 
 #include <stdio.h>

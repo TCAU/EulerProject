@@ -11,11 +11,6 @@ Notes:
 	2) if the prime number is low enough to have a multiple of itself lower than 20, 
 	   then replace the prime number with the multiple
 	3) multiply all numbers
-
-
-Answer: 232792560
-
-Code (C version C11):
 */
 
 #include <stdio.h>

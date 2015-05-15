@@ -28,10 +28,6 @@ I read the problem wrong at first, thought I was supposed to find a number with 
 Took me a day to find out how to find # of divisors for a number: 
 	- if all divisors are prime then the # of divisors is a power of 2
 	- if prime divisor is found as the factor more than once (ex 3 times) then it's 3 * powers of 2 (primes numbers found only once)
-
-Answer: 76576500
-
-Code (C version C11):
 */
 
 #include <stdio.h>

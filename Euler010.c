@@ -11,10 +11,6 @@ Program takes about 30 seconds to generate answer.
 
 Tried using Linked Lists but hit a wall with memory constraints so I went back to arrays, 
 each time the index maxed out, I increased the size of the array more.
-
-Answer: 142913828922
-
-Code (C version C11):
 */
 
 #include <stdio.h>

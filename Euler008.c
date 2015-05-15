@@ -35,10 +35,6 @@ Lesson 1 learned: check to see if the value is bigger than the biggest signed in
   -  Largest unsigned int is 4,294,967,295 or (2^32)-1 or 4.2 * 10^9 (4 followed by 9 zeros)
 Lesson 2 learned: if you're code is too cluttered, it's probably overcomplicated. You have extra variables and functions. 
 Lesson 3 learned: To convert from a char numerical value to an int numerical value, just use this: ( <char> - '0' )
-
-Answer: 23514624000
-
-Code (C version C11):
 */
 
 #include <stdio.h>

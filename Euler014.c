@@ -18,10 +18,6 @@ NOTE: Once the chain starts the terms are allowed to go above one million.
 
 Notes: 
 	Problems are getting too big to brute force...
-
-Answer: 837799
-
-C Code:
 */
 
 #include <stdio.h>

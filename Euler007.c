@@ -11,10 +11,6 @@ Notes:
 
 	1) make an empty array of 10001 integers, set the first one to 2
 	2) keep filling the array with primes until we reach the 10001st prime.
-
-Answer: 104743
- 
-Code (C version C11):
 */
 
 #include <stdio.h>
